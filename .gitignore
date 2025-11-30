@@ -1,0 +1,11 @@
+# --- Ignorer les rapports générés ---
+# Ignore tous les fichiers finissant par .txt
+*.txt
+
+# --- Ignorer les fichiers système Windows (Optionnel mais recommandé) ---
+Thumbs.db
+Desktop.ini
+
+# --- Ignorer les dossiers de configuration d'éditeurs (VS Code, etc.) ---
+.vscode/
+.idea/
